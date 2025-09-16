@@ -1,4 +1,4 @@
-# Olá! Eu sou o Izefler 👋
+# Olá! Eu sou o Lucas Izeffler 👋
 
 Sou **Desenvolvedor Backend Sênior** especializado em PHP, com sólida experiência em gestão de bancos de dados e performance de queries. Minha paixão é transformar desafios complexos em soluções robustas e eficientes para aplicações de alto desempenho.
 
