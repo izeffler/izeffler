@@ -14,7 +14,7 @@ Sou **Desenvolvedor Backend Sênior** especializado em PHP, com sólida experiê
 
 ## 🛠️ Principais habilidades
 
-- **PHP (Avançado)**
+- **PHP | Laravel**
 - **Gestão e modelagem de bancos de dados**
 - **Otimização e performance de queries**
 - **APIs RESTful**
