@@ -1,46 +1,44 @@
-<div align="center">
-
-<img src="assets/izeffler.png" width="110" alt="Izeffler" />
-
 # Olá! Eu sou o Lucas Izeffler 👋
 
-**CEO & CTO da [Izeffler · Desenvolvimento de Software](https://github.com/Izeffler-Desenvolvimento-de-Software)**
+**Desenvolvedor de software e líder técnico.**
+CEO & CTO da **Izeffler Desenvolvimento de Software** · Desenvolvedor / Líder Técnico na **ImpactaWeb**.
 
-Gestão, liderança técnica e software sob medida — do conceito à entrega, com método, transparência e foco em resultado.
-
-[![Izeffler](https://img.shields.io/badge/Izeffler-Desenvolvimento%20de%20Software-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Izeffler-Desenvolvimento-de-Software)
-[![Site](https://img.shields.io/badge/izefflerdev.com-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://izefflerdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izeffler)
-[![E-mail](https://img.shields.io/badge/contato@izefflerdev.com-16181D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contato@izefflerdev.com)
-
-</div>
+[![E-mail](https://img.shields.io/badge/lucas@izefflerdev.com-16181D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:lucas@izefflerdev.com)
 
 ---
 
 ## 👋 Sobre mim
 
-**CEO & CTO da Izeffler**, onde uno visão de negócio e direção técnica para transformar ideias em produtos digitais que funcionam e escalam. Atuo do planejamento ao deploy, liderando projetos e times com método, transparência e foco em resultado.
+Sou desenvolvedor de software com carreira construída no **backend** e que evoluiu naturalmente para a **liderança técnica** e a **gestão**. Gosto de entender o problema a fundo, desenhar a arquitetura certa e conduzir a solução do conceito à entrega — com método, clareza e foco em resultado.
 
-## 🎯 No que atuo
+Hoje divido meu tempo entre dois papéis:
 
-- **Gestão** — Estratégia, priorização e entrega de projetos e produtos, do escopo ao resultado.
-- **Liderança técnica** — Arquitetura, decisões de tecnologia, padrões de qualidade e mentoria de time.
-- **Desenvolvimento de software** — Sistemas, plataformas e integrações sob medida, de ponta a ponta.
-- **Consultoria de TI** — Diagnóstico, arquitetura, revisão de código, segurança e roadmap técnico.
+- 💼 **Desenvolvedor de Software / Líder Técnico na ImpactaWeb** — atuo no desenvolvimento e na direção técnica de sistemas web em produção, em projetos de alto volume e uso real.
+- 🏢 **CEO & CTO da Izeffler Desenvolvimento de Software** — minha própria empresa, onde uno visão de negócio e direção técnica em projetos sob medida.
 
-> Sem stack fechada: escolho a tecnologia certa para cada projeto — não o contrário.
+## 🧭 Como atuo
 
-## 🚀 O que construímos na Izeffler
+- **Liderança técnica** — arquitetura, decisões de tecnologia, qualidade de código e mentoria de time.
+- **Desenvolvimento de software** — sistemas, plataformas e integrações, do backend à entrega.
+- **Gestão** — planejamento, priorização e responsabilidade pelo resultado.
+- **Consultoria de TI** — diagnóstico técnico, boas práticas, segurança e roadmap.
 
-| Projeto | Descrição | |
-|---|---|---|
-| **PeerDuo** | Infraestrutura de videochamadas 1:1 como API — produto próprio, do back-end ao site. | [peerduo.com](https://peerduo.com) |
-| **MedCall** | Plataforma de telemedicina com pronto-atendimento 24h, triagem por IA e receitas com validade legal. | [medcall.med.br](https://medcall.med.br) |
+Tenho raiz forte em **backend** e **performance de banco de dados**, e trabalho **sem stack fechada** — escolho a ferramenta certa para cada problema, não o contrário.
 
-> 🔗 Empresa e projetos em **[github.com/Izeffler-Desenvolvimento-de-Software](https://github.com/Izeffler-Desenvolvimento-de-Software)**.
+## 🎯 O que me move
 
----
+- Transformar problemas complexos em soluções simples, robustas e que escalam.
+- Escrever código limpo e tomar decisões técnicas que envelhecem bem.
+- Crescer como líder e ajudar quem trabalha comigo a crescer também.
 
-<div align="center">
-<sub>Vamos conversar sobre o seu projeto — <a href="mailto:contato@izefflerdev.com">contato@izefflerdev.com</a></sub>
-</div>
+## 🎲 Além do código
+
+- Curioso por natureza — desafios matemáticos, quebra-cabeças e tecnologia nova.
+- Convicto de que método, transparência e um bom café resolvem 99% dos problemas. ☕
+
+## 🌎 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/izeffler)
+- 📫 lucas@izefflerdev.com
+- 🏢 Izeffler Dev — [github.com/Izeffler-Desenvolvimento-de-Software](https://github.com/Izeffler-Desenvolvimento-de-Software)
